@@ -271,7 +271,7 @@ Este endpoint devuelve una lista de planificacion de cosecha.
 - `dateUntil` (requerido): Permite filtrar hasta una fecha.
 - `varietyValue` (opcional): Permite filtrar por variedad.
 - `limit` (opcional): Permite definir la cantidad de registros.
-- `page` (opcional): Permite definir desde que registro traer empezar la lista.
+- `page` (opcional): Permite definir desde que registro empezar la lista.
 - `sortColumn` (opcional): Permite definir el por que columna se ordenara la información.
 - `sortOrder` (opcional): Permite definir el tipo de orden acendente o desendente.
 
